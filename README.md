@@ -1,7 +1,13 @@
+# Calculadora IMC
+Repositorios com Apps desenvolvidos com o framework Flutter. 
 
+Dart
+## Sobre este repositório
+Conjunto de Aplicativos criados com a  framework Flutter. Abaixo existe um quadro no qual você pode visualizar alguns dos meus projetos. Para acessar, basta clicar sobre o Título do aplicaivo que deseja.
 
+Dart
 
-## FLUTTER SAMPLES
+## Lista de Apps
 
  | [**Calculadora_IMC**](https://github.com/igor1043/Projetos-em-Flutter/tree/main/Calculadora_IMC)      | [**Tela de resultado 1**](https://medium.com/@diegoveloper/flutter-persistent-tab-bars-a26220d322bc)     | [**Tela de resultado 2**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      |
 |------------|-------------| -------------|
