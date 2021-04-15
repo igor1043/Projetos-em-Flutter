@@ -1,43 +1,16 @@
-# Flutter Login And Register V1 UI. 
+# Projetos em FLutter
+Repositorios com Apps desenvolvidos com o framework Flutter. 
 
-Flutter Login And Register UI. 
-This is a simple flutter application where I have designed Login And Register UI.
-Created by [Joan Louji](https://joanlouji.web.app/)
+Dart
+## Sobre este repositório
+Conjunto de Aplicativos criados com a  framework Flutter. Abaixo existe um quadro no qual você pode visualizar alguns dos meus projetos. Para acessar, basta clicar sobre o Título do aplicaivo que deseja.
 
-## Installation
+### Autor
 
-``` 
+* Igor Vincius Freitas de Souza
+ 
+# Lista de Apps
 
-git clone https://github.com/sjlouji/LoginAndRegisterV1-Flutter.git
-flutter pub get
-flutter run 
-
-```
-
-
-## Demo
-
-<img src="Demo/LoginV1-1.png" height="300em" /> <br>
-<img src="Demo/LoginV1-2.png" height="300em" /> <br>
-<img src="Demo/LoginV1-3.png" height="300em" /> <br>
-
-
-Thank you for your support. 
-
-## Get in touch with me
-
-<h3>Where to find me</h3>
-<p><a href="https://github.com/sjlouji" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Joanlouji" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sjlouji" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sjlouji10" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-   <a href="https://joanlouji.web.app/" target="_blank"><img alt="Joan Louji" src="https://img.shields.io/badge/JL-Joan%20Louji-yellowgreen?style=for-the-badge&" /></a>
-</p>
-
-## Getting Started
-
-A few resources to get started:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ | [**Calculadora_IMC**](https://github.com/igor1043/Projetos-em-Flutter/tree/main/Calculadora_IMC)      | [**Login e Cadastro**](https://github.com/igor1043/Projetos-em-Flutter/tree/main/LoginAndRegisterV1-Flutter-master)     | [**Tela de resultado 2**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      |
+|------------|-------------| -------------|
+|  <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/Calculadora_IMC/Img/IMG%20(4).png" width="250"> |  <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/LoginAndRegisterV1-Flutter-master/Demo/Screenshot_1.png" width="250"> |    <img src="https://github.com/igor1043/Projetos-em-Flutter/blob/main/Calculadora_IMC/Img/IMG%20(3).png" width="250"> |  
