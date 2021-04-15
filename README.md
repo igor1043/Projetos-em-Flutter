@@ -1,4 +1,4 @@
-# Calculadora IMC
+# Projetos em FLutter
 Repositorios com Apps desenvolvidos com o framework Flutter. 
 
 Dart
