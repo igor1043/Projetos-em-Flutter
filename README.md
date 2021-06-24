@@ -1,4 +1,4 @@
-# Projetos em FLutter
+# Projetos em Flutter
 Repositorios com Apps desenvolvidos com o framework Flutter. 
 
 Dart
